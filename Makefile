@@ -1,6 +1,6 @@
 CC=gcc
 CFLAGS=-O0 -Wall
-OBJS=Hello1.c
+OBJS=Hello1.o
 
 TARGET=Hello1
 
