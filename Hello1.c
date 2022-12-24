@@ -1,3 +1,3 @@
-int main(void) {
+volatile int main(void) {
   return 0;
 }
