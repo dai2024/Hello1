@@ -10,3 +10,7 @@ In the printf function, %d represents an integer value. The values of num1, num2
 Use the above example as a reference and try creating the next level of the program!
 
 [0002](https://github.com/dai2024/Hello1/blob/test1_1/tutorials/0002/main.c)
+
+[0003](https://github.com/dai2024/Hello1/blob/test1_1/tutorials/0003/main.c)
+
+[0004](https://github.com/dai2024/Hello1/blob/test1_1/tutorials/0004/main.c)
